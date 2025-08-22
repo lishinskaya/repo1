@@ -1,3 +1,2 @@
-print("Hello, GitHub!")
-name = "Вася"
-print("Привет,", name)
+print("Hello, world2")
+
